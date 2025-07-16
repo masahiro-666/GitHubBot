@@ -15,8 +15,6 @@ Whether you're looking to create artistic visual patterns, fill in gaps in your 
 - **Super Easy Setup**: Follow simple, intuitive steps to set up and run.
 - **Ultimate GitHub Experience**: Experiment with contributions, test different patterns, or just make your GitHub look cooler!
 
- index.js
-```
 
 ### ⚡ Usage Examples
 
