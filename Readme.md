@@ -4,7 +4,7 @@ Welcome to the **GitHub Bot** project! This bot allows you to effortlessly creat
 
 Whether you're looking to create artistic visual patterns, fill in gaps in your contribution history, or experiment with your GitHub contributions, this bot is your one-stop solution!
 
-[![GitHub Bot Demo Screenshot](https://github.com/user-attachments/assets/f8cb20ec-6e6b-4163-b26c-53e08ce49821)](https://youtu.be/V0plJE6gMac?si=m9SIVvhdqDfl5aGa)
+[![GitHub Bot Demo Screenshot](https://github.com/user-attachments/assets/f8cb20ec-6e6b-4163-b26c-53e08ce49821)]
 
 
 ### 🚀 Features
@@ -15,37 +15,7 @@ Whether you're looking to create artistic visual patterns, fill in gaps in your 
 - **Super Easy Setup**: Follow simple, intuitive steps to set up and run.
 - **Ultimate GitHub Experience**: Experiment with contributions, test different patterns, or just make your GitHub look cooler!
 
-### 🎥 Demo Video
-
-For a visual walkthrough of the bot, check out the demo video below:
-
-[![GitHub Bot Demo](https://img.youtube.com/vi/your-demo-video-id-here/0.jpg)](https://www.youtube.com/watch?v=your-demo-video-id-here)
-
-### 🛠 Getting Started
-
-#### Step 1: Clone the Repository
-Clone this repository to your local machine:
-```bash
-git clone https://github.com/AnubhavChaturvedi-GitHub/GitHub-Bot.git
-cd GitHub-Bot
-```
-
-#### Step 2: Install Dependencies
-Set up your project by initializing a new Node.js project:
-```bash
-npm init -y
-```
-
-#### Step 3: Install Required npm Modules
-Install the necessary modules:
-```bash
-npm install moment simple-git random
-```
-
-#### Step 4: Run the Bot
-Run the bot and start generating your commits:
-```bash
-node index.js
+ index.js
 ```
 
 ### ⚡ Usage Examples
